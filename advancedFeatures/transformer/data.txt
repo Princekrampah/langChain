@@ -1,0 +1,2 @@
+Hello world, this is a course on LangChain. I love LLM
+Hello world, this is code with prince
